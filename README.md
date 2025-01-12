@@ -5,6 +5,7 @@ This dataset contains patient information pertaining to breast cancer cases, Aim
 XGBoost Classifier is the best fit model or algorithm for Breast Cancer Prediction .
 
 Other Models accuracy:
+
 Suppor vector Classifier:- 96.49%
 
 Logistic Regression:- 45.61%
